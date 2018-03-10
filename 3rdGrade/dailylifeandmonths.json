@@ -1,0 +1,21 @@
+var lessonname = '3rdGrade/dailylifeandmonths';var lesson = {
+    "Daily Life": [
+        "Tim wakes up and yawns.", 
+        "After waking up, he gets out of bed.", 
+        "Later on, he cooks breakfast."
+    ], 
+    "Months of the Year": [
+        "January", 
+        "February", 
+        "March", 
+        "April", 
+        "May", 
+        "June", 
+        "July", 
+        "August", 
+        "September", 
+        "October", 
+        "November", 
+        "December"
+    ]
+}
